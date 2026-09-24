@@ -64,9 +64,9 @@ curl -x http://USER:PASSWORD@gw.weproxy.com.tr:8989 https://api.ipify.org
 
 | Stack | Repo |
 | --- | --- |
-| Node.js | [nodejs-proxy](https://github.com/we1town-dev/nodejs-proxy) |
-| PHP | [php-proxy](https://github.com/we1town-dev/php-proxy) |
-| Python | [python-proxy](https://github.com/we1town-dev/python-proxy) |
+| Node.js | [nodejs-proxy](https://github.com/weproxy-io/nodejs-proxy) |
+| PHP | [php-proxy](https://github.com/weproxy-io/php-proxy) |
+| Python | [python-proxy](https://github.com/weproxy-io/python-proxy) |
 
 More guides: [Integrations](https://weproxy.io/en/integrations?utm_source=github&utm_medium=referral&utm_campaign=paid-proxy-servers)
 
@@ -98,7 +98,7 @@ Default to HTTP for scrapers and APIs. Use SOCKS5 when the application UI only s
 [my.we1.town](https://my.we1.town) after purchase. Gateway host/port stay the same.
 
 **Still exploring freely?**  
-See [free-proxy-list](https://github.com/we1town-dev/free-proxy-list) and the live tool on [weproxy.io/en/tools/free-proxy-list](https://weproxy.io/en/tools/free-proxy-list).
+See [free-proxy-list](https://github.com/weproxy-io/free-proxy-list) and the live tool on [weproxy.io/en/tools/free-proxy-list](https://weproxy.io/en/tools/free-proxy-list).
 
 ## Get started
 
@@ -111,7 +111,7 @@ See [free-proxy-list](https://github.com/we1town-dev/free-proxy-list) and the li
 
 - [WeProxy](https://weproxy.io)  
 - [Pricing](https://weproxy.io/en/pricing)  
-- [Residential deep dive](https://github.com/we1town-dev/residential-proxies)  
+- [Residential deep dive](https://github.com/weproxy-io/residential-proxies)  
 - [Support](mailto:support@weproxy.io)  
 
 ## License
